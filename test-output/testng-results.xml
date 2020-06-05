@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-09T00:37:15 CDT" name="Default suite" finished-at="2020-05-09T00:37:28 CDT" duration-ms="13671">
+    <groups>
+    </groups>
+    <test started-at="2020-05-09T00:37:15 CDT" name="Default test" finished-at="2020-05-09T00:37:28 CDT" duration-ms="13671">
+      <class name="com.dell.project.dell.extractLink_Demo">
+        <test-method signature="extractDEmo()[pri:0, instance:com.dell.project.dell.extractLink_Demo@7a675056]" started-at="2020-05-09T00:37:15 CDT" name="extractDEmo" finished-at="2020-05-09T00:37:28 CDT" duration-ms="13578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractDEmo -->
+      </class> <!-- com.dell.project.dell.extractLink_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
